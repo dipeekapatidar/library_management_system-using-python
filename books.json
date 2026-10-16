@@ -1,0 +1,79 @@
+[
+  {
+    "id": "B001",
+    "title": "The Alchemist,paulo coelho",
+    "author": "paulo coelho",
+    "copies": 20,
+    "available": 20
+  },
+  {
+    "id": "B002",
+    "title": "AtomicHabits",
+    "author": "James Clear",
+    "copies": 10,
+    "available": 10
+  },
+  {
+    "id": "B003",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "copies": 5,
+    "available": 5
+  },
+  {
+    "id": "B004",
+    "title": "The Power of Your Subconscious Mind",
+    "author": "Joseph Murphy",
+    "copies": 11,
+    "available": 11
+  },
+  {
+    "id": "B005",
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "copies": 12,
+    "available": 12
+  },
+  {
+    "id": "B006",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "copies": 11,
+    "available": 11
+  },
+  {
+    "id": "B007",
+    "title": "Computer Fundamentals",
+    "author": "Pradeep K. Sinha",
+    "copies": 19,
+    "available": 19
+  },
+  {
+    "id": "B008",
+    "title": "Let Us C",
+    "author": "Yashavant Kanetkar",
+    "copies": 11,
+    "available": 11
+  },
+  {
+    "id": "B009",
+    "title": "Learning Python",
+    "author": "Mark Lutz",
+    "copies": 13,
+    "available": 13
+  },
+  {
+    "id": "B010",
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "copies": 5,
+    "available": 5
+  },
+  {
+    "id": "B011",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "copies": 11,
+    "available": 11
+  }
+]

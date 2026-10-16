@@ -28,4 +28,3 @@ A simple command-line project. No external libraries needed, only Python 3.8+.
 ## Customize
 Open `config.py` and change `LIBRARY_NAME`, `CREATED_BY`, `LOAN_DAYS`, `FINE_PER_DAY`.
 Tip: choose menu option "Load sample data" the first time to try it out.
-# library_management_system-using-python
